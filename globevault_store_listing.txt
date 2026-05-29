@@ -1,0 +1,83 @@
+==========================================================
+  GLOBEVAULT — GOOGLE PLAY STORE LISTING
+==========================================================
+
+APP TITLE  (30 chars max)
+──────────────────────────────────────────────────────────
+GlobeVault: World Quiz
+
+
+SHORT DESCRIPTION  (80 chars max)
+──────────────────────────────────────────────────────────
+Explore 100 nations with 500 geography & culture challenges!
+
+
+FULL DESCRIPTION  (4,000 chars max)
+──────────────────────────────────────────────────────────
+🌐 GLOBEVAULT – UNLOCK THE WORLD
+
+GlobeVault is the ultimate geography and culture quiz game. Journey across every continent, unlock 100 nations, and test your knowledge through 500 handcrafted challenges.
+
+─── HOW IT WORKS ───
+
+🗺️ EXPLORE BY REGION
+Browse 5 world regions — Africa, Americas, Asia, Europe, and Oceania & the Middle East. Unlock nations one by one as you prove your knowledge.
+
+🧠 500 UNIQUE CHALLENGES
+Every nation has 5 challenges mixing multiple-choice questions and type-in answers. Questions cover capitals, currencies, history, culture, landmarks, and more.
+
+⭐ EARN STARS, TRACK PROGRESS
+Score 5/5 for 3 stars. Beat 3/5 for 2. Every nation keeps your personal best, and region progress bars show how close you are to mastering each area.
+
+🔊 IMMERSIVE AMBIENT AUDIO
+Each world region has its own ambient music score, creating an atmospheric backdrop as you explore the globe.
+
+🔒 UNLOCK AS YOU LEARN
+Nations unlock progressively — complete a country to open the next. Knowledge earned, not bought.
+
+─── 100 NATIONS ACROSS 5 REGIONS ───
+
+🌍 AFRICA (20 Nations)
+Nigeria • Kenya • South Africa • Egypt • Ghana • Ethiopia • Tanzania • Morocco • Senegal • Cameroon • Ivory Coast • Uganda • Zambia • Rwanda • Mali • Madagascar • Algeria • Tunisia • Mozambique • Angola
+
+🌎 AMERICAS (20 Nations)
+Brazil • Mexico • Colombia • Argentina • Peru • Venezuela • Chile • Ecuador • Bolivia • Cuba • Canada • Panama • Costa Rica • Jamaica • Haiti • Guatemala • Dominican Republic • Paraguay • Uruguay • and more
+
+🌏 ASIA (30 Nations)
+China • Japan • India • Indonesia • Thailand • Vietnam • Philippines • Pakistan • Bangladesh • Malaysia • South Korea • Saudi Arabia • UAE • Iran • Iraq • Jordan • Kazakhstan • Uzbekistan • Georgia • Armenia • Mongolia • Nepal • Myanmar • Bhutan • Maldives • Kyrgyzstan • Tajikistan • and more
+
+🏰 EUROPE (20 Nations)
+France • Germany • Italy • Spain • Portugal • Greece • Netherlands • Poland • Sweden • Norway • Denmark • Finland • Austria • Belgium • Czechia • Hungary • Romania • and more
+
+🌊 OCEANIA & MIDDLE EAST (10 Nations)
+Australia • New Zealand • Papua New Guinea • Fiji • Samoa • Vanuatu • Oman • Kuwait • Bahrain • Qatar
+
+─── FEATURES ───
+
+✅ 100 unlockable nations
+✅ 500 handcrafted challenges (MCQ + type-in)
+✅ Star rating system (1–3 stars per nation)
+✅ Personal best scores saved locally
+✅ Region progress tracking
+✅ Ambient music per world region
+✅ Sound effects for correct/wrong answers
+✅ Works completely offline
+✅ No ads, no in-app purchases, no data collection
+✅ Family-friendly for all ages
+
+Whether you're a geography enthusiast, a curious learner, or just want to travel the world from your couch — GlobeVault is your passport to knowledge.
+
+Unlock every vault. Master every nation. 🌐
+
+
+CATEGORY
+──────────────────────────────────────────────────────────
+Education / Trivia
+
+CONTENT RATING
+──────────────────────────────────────────────────────────
+Everyone
+
+TAGS
+──────────────────────────────────────────────────────────
+geography quiz, world trivia, countries, capitals, culture, education, offline game, family game, atlas, travel
